@@ -22,3 +22,11 @@ exactly how each branch connected to the master at one point in
 time and where it split from it.  It also shows which commits are 
 accessible and which are not.
 
+When two branches are merged together, all of the changes made in 
+each branch are combined into the current branch.  We represent it
+on the graph the way we do because a branch is brought back into
+the master branch when a merge happens, thus creating a reference
+to the most recent commit of that branch to the master.
+
+
+
