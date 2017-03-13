@@ -1,0 +1,13 @@
+When you initialize a repository, git creates a new repository
+for the current working directory and all files contained within.
+You need to do this in order to begin using commits to control
+versions of your code.
+
+The staging area is different from the working directory and 
+repository beacuse it is simply an abstract area in git in 
+which to add files you wish to be part of a commit.  I think
+it offers a user the ability to pick and choose which files
+will be part of a commit without having to modify or move files
+within a working directory or within a repository. 
+
+
