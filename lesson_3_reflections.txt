@@ -6,3 +6,8 @@ Why might you want to always pull changes manually rather than having Git automa
   Somebody may make a change that will break your code.  You do not want to be automatically updating you local copy with 
   possibly invalid code.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+  Forks are used to clone a repository from one GitHub user to another.  Clone allows a repository to be copied either from
+  remote to local, or local to local.  Lastly, a branch is just a different version of code within one repository.
+
+
