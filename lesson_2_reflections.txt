@@ -10,4 +10,6 @@ it offers a user the ability to pick and choose which files
 will be part of a commit without having to modify or move files
 within a working directory or within a repository. 
 
-
+You can use the staging area to ensure you have only one logical
+change per commit by adding files to the staging area and then
+using diff to compare changes made against the most recent commit.
