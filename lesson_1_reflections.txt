@@ -1,0 +1,31 @@
+Using diff to view differences between two files was helpful
+in allowing the computer to quickly highlight differences between
+the files.  This was even more useful on the very long javascript
+files that made up the asteroid game.
+
+Having easy access to the entire history of a file would make me
+a more efficient programmer because it would allow me to quickly
+and easily go back to previous known working versions of code if 
+something went wrong when making changes.
+
+When you manually choose when to commit changes to code, it allows
+you to save changes at sensible points in time.  If code was to 
+save automatically, there would be times when it is saved with errors
+or half-written lines of code.
+
+Some version control systems allow saving multiples files in one commit
+because it is often the case that changing some thing about code requires
+edits to be made accross multiple files.
+
+You can use git log to view the history of commits, then use git 
+diff to compare the differences of different commits.
+
+Having version control allows you to easily move back to previous 
+working versions of code, thus allowing you to make changes worry
+free since any error can be undone.
+
+I want to use git for tracking versions of all my projects!
+
+
+
+
