@@ -13,3 +13,7 @@ within a working directory or within a repository.
 You can use the staging area to ensure you have only one logical
 change per commit by adding files to the staging area and then
 using diff to compare changes made against the most recent commit.
+
+Branches would be useful in situations where you would add an 
+experimental feature or different version of a program.
+
